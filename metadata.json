@@ -1,0 +1,5 @@
+{
+  "name": "DrawThings Configurator",
+  "description": "Embeds AI generation metadata into images for Draw Things based on user vision.",
+  "requestFramePermissions": []
+}
